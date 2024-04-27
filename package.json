@@ -1,7 +1,7 @@
 {
-  "name": "@yanzbotz/baileys",
-  "version": "6.6.0",
-  "description": "WhatsApp API",
+  "name": "@langzdesu/baileys",
+  "version": "1.0.0",
+  "description": "WhatsApp API - Based on Whiskeysockets",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Langz",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
