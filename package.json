@@ -1,7 +1,7 @@
 {
   "name": "@langzdesu/baileys",
-  "version": "6.6.1",
-  "description": "WhatsApp API - Based on Whiskeysockets",
+  "version": "1.0.0",
+  "description": "WhatsApp Web API - Based on Whiskeysockets",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
